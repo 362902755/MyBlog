@@ -115,11 +115,9 @@
   * [Python学习记录（三）：正则表达式&网络爬虫][4]
   * [Python学习记录（二）：网络爬虫][3]
   * [Python学习记录（一）：urllib模块和urllib2模块][2]
-  * [那26年时光][1]
   <br>
   
 
-[1]: https://github.com/PyxYuYu/MyBlog/issues/1 "那26年时光"
 [2]: https://github.com/PyxYuYu/MyBlog/issues/2 "Python学习记录（一）：urllib模块和urllib2模块"
 [3]: https://github.com/PyxYuYu/MyBlog/issues/3 "Python学习记录（二）：网络爬虫"
 [4]: https://github.com/PyxYuYu/MyBlog/issues/4 "Python学习记录（三）：正则表达式&网络爬虫"
